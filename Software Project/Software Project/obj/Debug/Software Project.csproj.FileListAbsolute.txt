@@ -1,0 +1,43 @@
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.AssemblyReference.cache
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software_Project.Properties.Resources.resources
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.GenerateResource.cache
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\bin\Debug\Software Project.exe.config
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\bin\Debug\Software Project.exe
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\bin\Debug\Software Project.pdb
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.CopyComplete
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.exe
+C:\Users\Ahmed\OneDrive\Desktop\Software Project\Software Project\obj\Debug\Software Project.pdb
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software_Project.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\Software Project.exe.config
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\Software Project.exe
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\Software Project.pdb
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\Oracle.Web.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\bin\Debug\stdole.dll
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.exe
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.pdb
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software Project.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software_Project.Form1.resources
+C:\Users\Ahmed\Desktop\Software Project\Software Project\obj\Debug\Software_Project.Form2.resources
